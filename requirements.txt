@@ -1,0 +1,6 @@
+flask
+pywebio
+moviepy
+rembg
+torch
+faster-whisper
