@@ -1,9 +1,9 @@
-# Config settings for Quantara Web Editor
+# Config settings for Movies.Editor
 
 UPLOAD_FOLDER = "uploads"
 OUTPUT_FOLDER = "outputs"
 MAX_VIDEO_LENGTH = 600  # seconds (10 minutes)
-WATERMARK_TEXT = "Quantara"
+WATERMARK_IMAGE = "watermark.png"  # Add transparent PNG in repo
 
 FILTERS = {
     "None": lambda clip: clip,
